@@ -1,0 +1,47 @@
+
+h1 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    display: block;
+    margin: 20px;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 2px 0;
+    padding: 6px 12px;
+}
+
+button {
+    display:block;
+    width: 100%;
+    margin: 2px 0;
+    padding: 6px 12px;
+    background-color:rgb(145, 175, 201);
+    position: relative;
+}
+
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td,
+  th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+
+  
